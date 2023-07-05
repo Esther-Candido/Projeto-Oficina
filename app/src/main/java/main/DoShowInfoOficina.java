@@ -12,6 +12,7 @@ public class DoShowInfoOficina extends Comando<GestorOficiona> {
 
     @Override
     public void executar() throws DialogException {
-        System.out.println("Executou Info Oficina");
+        String output = this.getReceptor().show_info();
+        ui.escreveLinha(output);
     }
 }

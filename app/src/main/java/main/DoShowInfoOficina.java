@@ -7,6 +7,7 @@ import tpsi0922.oficiona.core.GestorOficiona;
 public class DoShowInfoOficina extends Comando<GestorOficiona> {
 
     public DoShowInfoOficina(GestorOficiona gestorOficiona) {
+
         super(gestorOficiona, Label.DO_SHOW_INFO_OFICINA);
     }
 

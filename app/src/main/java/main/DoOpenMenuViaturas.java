@@ -12,6 +12,7 @@ public class DoOpenMenuViaturas extends Comando<GestorOficiona> {
 
     @Override
     public void executar() throws DialogException {
-        System.out.println("Abriu Menu Viaturas!");
+        Menu menu = new Menu (this.getReceptor());
+        menu.open();
     }
 }

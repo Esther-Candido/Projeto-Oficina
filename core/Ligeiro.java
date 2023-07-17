@@ -1,2 +1,2 @@
-public class Ligeiro {
+public class Ligeiro extends Viatura{
 }

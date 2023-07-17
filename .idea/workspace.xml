@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfe2e99b-27d0-4f1c-9922-936a8b87a2be" name="Changes" comment="att app viaturas funcionando">
+      <change afterPath="$PROJECT_DIR$/core/Motociclo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/Ligeiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/Ligeiro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/Viatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/Viatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Pesado.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/Pesado.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1688579751474</updated>
       <workItem from="1688579755469" duration="10050000" />
-      <workItem from="1689611841166" duration="1281000" />
+      <workItem from="1689611841166" duration="1517000" />
     </task>
     <task id="LOCAL-00001" summary="atualizacao projeto Oficina">
       <option name="closed" value="true" />
@@ -152,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689612948134</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="att app viaturas funcionando">
+      <option name="closed" value="true" />
+      <created>1689613139886</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689613139886</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
